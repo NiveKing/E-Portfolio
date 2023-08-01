@@ -25,7 +25,7 @@ const Navbar = () => {
     return (
         <div className={color? 'header header-bg': 'header'}>
             <Link to='/'>
-                <h1>KevDev</h1>
+                <h1>Kev<span className="blue">Dev</span></h1>
             </Link>
             <ul className={showNav? 'nav-menu active': 'nav-menu'}>
                 <li>
