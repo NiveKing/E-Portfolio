@@ -57,3 +57,9 @@ p {
 .phone h4, .email h4 {
     margin: auto 0;
 }
+
+@media screen and (max-width: 640px) {
+    .footer-container {
+        grid-template-columns: 1fr;
+    }
+}
