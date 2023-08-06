@@ -32,8 +32,10 @@
 }
 
 .proj-btns {
+    margin-top: 1rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
     padding: 0.5rem 0;
 }
 
