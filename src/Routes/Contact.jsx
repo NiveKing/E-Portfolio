@@ -6,7 +6,7 @@ const Contact = () => {
     return (
         <div>
             <Navbar />
-            <Hero2 heading='Contact' text='You can contact me in any of these platforms' />
+            <Hero2 heading='Contact' text='You may contact me by messaging me on my social medias or by sending me an email :)' />
             <Footer />
         </div>
     )

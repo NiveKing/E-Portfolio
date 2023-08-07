@@ -1,4 +1,4 @@
-import { FaDiscord, FaFacebook, FaHome, FaLinkedin, FaMailBulk, FaPhone } from 'react-icons/fa';
+import { FaDiscord, FaFacebook, FaHome, FaInstagram, FaLinkedin, FaMailBulk, FaPhone } from 'react-icons/fa';
 import './Footer.css'
 
 const Footer = () => {
@@ -26,9 +26,9 @@ const Footer = () => {
                     <h4>About Me</h4>
                     <p>I am self taught programmer. I enjoy problem solving.</p>
                     <div className="social">
-                        <FaFacebook size={20} style={{color: 'white', margin: '1rem'}} />
-                        <FaLinkedin size={20} style={{color: 'white', margin: '1rem'}} />
-                        <FaDiscord size={20} style={{color: 'white', margin: '1rem'}} />
+                        <a href='https://www.facebook.com/boyrank23' target='_blank'><FaFacebook size={20} style={{color: 'white', margin: '1rem'}} /></a>
+                        <a href='https://www.instagram.com/plssquillme/?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D&fbclid=IwAR17nYiYxZebt22ZdNU0W4lcCYEOzQYrW13OHRd3w4JhB2xox0SsLFREKiM' target='_blank'><FaInstagram size={20} style={{color: 'white', margin: '1rem'}} /></a>
+                        {/* <FaLinkedin size={20} style={{color: 'white', margin: '1rem'}} /> */}
                     </div>
                 </div>
             </div>
