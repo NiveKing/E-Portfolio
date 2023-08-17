@@ -6,7 +6,7 @@ import About from './Routes/About'
 import Contact from './Routes/Contact'
 
 import './App.css'
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom'
+import { HashRouter as Router, Route, Routes, Link } from 'react-router-dom'
 
 function App() {
   const [count, setCount] = useState(0)
