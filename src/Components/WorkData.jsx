@@ -6,7 +6,7 @@ const ProjectData = [
     {
         imgsrc: proj1,
         title: 'To do list',
-        text: 'This is my first project, all codes are my own. This the first time i used what i learnt. It is simple but I was very proud of myself when I was able to built it',
+        text: 'This is my first project, all codes are my own. This the first time i used what i learnt. It is simple but and messy but the code worked',
         view: ''
     },
     {
