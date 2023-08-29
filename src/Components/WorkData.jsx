@@ -7,13 +7,13 @@ const ProjectData = [
         imgsrc: proj1,
         title: 'To do list',
         text: 'This is my first project, all codes are my own. This the first time i used what i learnt. It is simple and messy but the code worked',
-        view: ''
+        view: 'https://github.com/NiveKing/Todolist'
     },
     {
         imgsrc: proj2,
         title: 'Weather App',
         text: 'This is a copied work from youtube, but I modified it a little bit because the api used in the video was outdated',
-        view: ''
+        view: 'https://github.com/NiveKing/Todolist'
     },
 ]
 
