@@ -13,7 +13,7 @@ const ProjectData = [
         imgsrc: proj2,
         title: 'Weather App',
         text: 'This is a copied work from youtube, but I modified it a little bit because the api used in the video was outdated',
-        view: 'https://github.com/NiveKing/Todolist'
+        view: 'https://github.com/NiveKing/weatherApp'
     },
 ]
 
