@@ -6,7 +6,7 @@ const ProjectData = [
     {
         imgsrc: proj1,
         title: 'To do list',
-        text: 'This is my first project, all codes are my own. This the first time i used what i learnt. It is simple and a bit messy.',
+        text: 'This is my first project, all codes are my own. Practiced React and bootstrap',
         view: 'https://github.com/NiveKing/Todolist'
     },
     {
@@ -18,7 +18,7 @@ const ProjectData = [
     {
         imgsrc: proj3,
         title: 'Login Authentication',
-        text: 'My first project with back-end. Learnt Express JS, Database(SQL) and how to use and create APIs.',
+        text: 'My first project with back-end. Learnt Express JS, Database(mySQL) and how to use and create APIs.',
         view: 'https://github.com/NiveKing/loginAuthentication'
     }
 ]
